@@ -10,7 +10,7 @@
 
 'use strict';
 
-var precacheConfig = [["/css/index.css","4af430a6c3ad4102cc6fd508b4295ccb"],["/css/var.css","d41d8cd98f00b204e9800998ecf8427e"],["/img/404.jpg","4ef3cfb882b6dd4128da4c8745e9a507"],["/img/favicon.png","7a8c47cb5a2149c1a1af21e90ecd9ca7"],["/img/friend_404.gif","68af0be9d22722e74665ef44dd532ba8"],["/js/main.js","960297fafacb19dff1246d71f6dfcf6f"],["/js/search/algolia.js","4491ac1d470a1693a502a9d09034aa21"],["/js/search/local-search.js","9da6b76672a143c8c8449770a8d259f3"],["/js/tw_cn.js","fb4da68124bbafbd2d3da537c80e27ce"],["/js/utils.js","420a15cf446b5670244a9ea05b2bccf0"],["/sw-register.js","3064110767a5891dc7b31fc0a8a052c6"]];
+var precacheConfig = [["/2024/06/19/hello-world/index.html","68c63037ef8afae13dceb37f19c644c7"],["/archives/2024/06/index.html","97a63bb418e2ca6197df27e8db75c698"],["/archives/2024/index.html","29b057c5abbbaf251e445798553855bf"],["/archives/index.html","97dbf6e31eaa4906bcf811b542e4e02a"],["/css/index.css","4af430a6c3ad4102cc6fd508b4295ccb"],["/css/var.css","d41d8cd98f00b204e9800998ecf8427e"],["/img/404.jpg","4ef3cfb882b6dd4128da4c8745e9a507"],["/img/favicon.png","7a8c47cb5a2149c1a1af21e90ecd9ca7"],["/img/friend_404.gif","68af0be9d22722e74665ef44dd532ba8"],["/index.html","e53b49a5322292db8c5ddc1d831808a8"],["/js/main.js","960297fafacb19dff1246d71f6dfcf6f"],["/js/search/algolia.js","4491ac1d470a1693a502a9d09034aa21"],["/js/search/local-search.js","9da6b76672a143c8c8449770a8d259f3"],["/js/tw_cn.js","fb4da68124bbafbd2d3da537c80e27ce"],["/js/utils.js","420a15cf446b5670244a9ea05b2bccf0"],["/sw-register.js","a426db757ee76ef4a674641096c63b31"]];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 var firstRegister = 1; // 默认1是首次安装SW， 0是SW更新
 
