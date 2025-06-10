@@ -1519,7 +1519,7 @@ input::placeholder {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: img/background.jpg;
+  background: url(https://github.com/Thousand-HUB/Thousand.github.io/blob/0a5c4ff75982efe0e4494e49f591c3510de0862a/img/background.jpg);
   background-attachment: local;
   background-position: center;
   background-size: cover;
