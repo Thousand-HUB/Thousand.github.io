@@ -1,3 +1,8 @@
+/* 在 custom.css 顶部添加 */
+body {
+  border: 5px solid red !important;
+}
+
 /* 首页文章卡片 */
 #recent-posts > .recent-post-item{
   background:rgba(255, 255, 255, 0.8);
@@ -97,4 +102,6 @@ background: rgba(255, 255, 255, 0.8);
       background: rgba(0, 0, 0, 0.5)!important;
       color: #eeeeee;
       }
+
+
 
